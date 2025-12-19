@@ -1,1 +1,7 @@
 .env
+lakehouse/
+stream_input/
+**/checkpoints/
+.ipynb_checkpoints/
+*.parquet
+*.delta

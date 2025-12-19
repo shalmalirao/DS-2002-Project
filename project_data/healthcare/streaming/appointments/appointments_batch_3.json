@@ -1,0 +1,2 @@
+{"appointment_id":5,"doctor_id":102,"patient_id":205,"room_id":1,"insurance_id":2,"appointment_ts":"2025-03-15 11:15:00","visit_type":"follow-up","duration_minutes":25,"cost_usd":95.0}
+{"appointment_id":6,"doctor_id":101,"patient_id":206,"room_id":3,"insurance_id":1,"appointment_ts":"2025-04-22 15:00:00","visit_type":"consult","duration_minutes":60,"cost_usd":260.0}

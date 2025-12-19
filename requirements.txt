@@ -6,3 +6,6 @@ pymongo
 certifi
 python-dotenv
 urllib3
+pyspark
+delta-spark
+cryptography
